@@ -16,7 +16,6 @@ Traditional recruitment processes rely heavily on primitive keyword matching, wh
 The system is designed following the **Separation of Concerns (SoC)** principle, separating the frontend presentation layer (`app.py`) from the core computational logic (`engine.py`).
 
 ### 📊 System Architecture Flowchart
-*(Note: Ensure your flowchart image is uploaded in the repository with the file name `flowchart.png`)*
 
 ![System Architecture Flowchart](flowchart.png)
 
