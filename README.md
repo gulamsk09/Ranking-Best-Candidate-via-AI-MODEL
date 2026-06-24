@@ -41,5 +41,5 @@ The system is designed following the **Separation of Concerns (SoC)** principle,
 ├── engine.py               # Computational Core, NLP Parsing & Model Logic
 ├── flowchart.png           # System Architecture Diagram
 └── requirements.txt        # Managed Python Project Dependencies
+<img width="1240" height="5305" alt="flowchart png" src="https://github.com/user-attachments/assets/ffa0f647-f9dd-43f1-bc10-6663212f3485" />
 
-<img width="1240" height="5305" alt="Candidate Ingestion to-2026-06-24-063654" src="https://github.com/user-attachments/assets/90cea709-d778-4e0e-aee8-0643402988e9" />
