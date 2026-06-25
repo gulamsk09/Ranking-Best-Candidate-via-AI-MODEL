@@ -1,0 +1,18 @@
+## How to Run
+
+Start the Streamlit application:
+
+```bash
+streamlit run app.py
+```
+
+After launch:
+
+1. Open the browser URL shown in terminal
+2. Enter Job Description
+3. Upload candidate CSV
+4. Click Run / wait for analysis
+5. View ranked candidates
+6. Download results CSV
+
+---
