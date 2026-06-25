@@ -38,7 +38,7 @@ The system is designed following the **Separation of Concerns (SoC)** principle,
 ```text
 ├── app.py                  # Streamlit Interface & Presentation Layer
 ├── engine.py               # Computational Core, NLP Parsing & Model Logic
-├── flowchart.png           # System Architecture Diagram
-└── requirements.txt        # Managed Python Project Dependencies
+└── flowchart.png           # System Architecture Diagram
+ 
 <img width="1240" height="5305" alt="flowchart png" src="https://github.com/user-attachments/assets/ffa0f647-f9dd-43f1-bc10-6663212f3485" />
 
